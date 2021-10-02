@@ -53,14 +53,14 @@ def get_playable_podcast2(soup2):
             print("\n\nLink: ", link)
             title = content.find('title')
             title = title.get_text()
-            thumbnail = content.find('itunes:image')
-            thumbnail = thumbnail.get('href')
+#            thumbnail = content.find('itunes:image')
+#            thumbnail = thumbnail.get('href')
         except AttributeError:
             continue
         item = {
                 'url': link,
                 'title': title,
-                'thumbnail': thumbnail,
+                'thumbnail': "https://megaphone.imgix.net/podcasts/c9f01482-1967-11eb-be5a-3b30b6c2b4e1/image/uploads_2F1605285309636-6sirg6em403-93059d842d47b7ebfa8f8221456939ae_2Fclimate-front-lines.jpg?ixlib=rails-2.1.2&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
         }
         subjects.append(item)
     return subjects
