@@ -14,7 +14,7 @@
     <platform>all</platform>
     <language>en_us</language>
     <summary lang="en">Truthout</summary>
-    <description lang="en">Truthout podcasts:<br>Movement Memos: An ongoing call to action for movement work and mutual aid efforts around the country. Kelly Hayes connects with activists, journalists and others on the front lines to break down what’s happening in various struggles and what listeners can do to help.<br>Climate Change Frontlines: Climate change is happening now. Truthout reporter Mike Ludwig explores our rapidly changing planet with experts and activists from frontline communities across the world.</description>
+    <description lang="en">Truthout podcasts: Movement Memos: An ongoing call to action for movement work and mutual aid efforts around the country. Kelly Hayes connects with activists, journalists and others on the front lines to break down what’s happening in various struggles and what listeners can do to help. Climate Change Frontlines: Climate change is happening now. Truthout explores our rapidly changing planet with experts and activists from frontline communities across the world</description>
     <license>The MIT License (MIT)</license>
     <forum></forum>
     <email>leopheard@gmail.com</email>
@@ -24,6 +24,7 @@
 			<icon>resources/media/icon.jpg</icon>
 			<fanart>resources/media/fanart.jpg</fanart>
 			<screenshot>resources/media/icon.jpg</screenshot>
+			<screenshot>resources/media/1.jpg</screenshot>
 			<screenshot>resources/media/2.jpg</screenshot>
 			<screenshot>resources/media/3.jpg</screenshot>
 		</assets>
