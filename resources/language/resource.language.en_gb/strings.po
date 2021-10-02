@@ -15,11 +15,11 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "#30001"
-msgid "Latest episodes"
+msgid "Movement Memos with Kelly Hayes"
 msgstr ""
 
 msgctxt "#30002"
-msgid "All episodes"
+msgid "Climate Front Lines with Mike Ludwig"
 msgstr ""
 
 msgctxt "#30003"
